@@ -36,8 +36,9 @@ invindex = {word:set(txt
 print('\nInverted Index')
 pp({k:sorted(v) for k,v in invindex.items()})
  
-terms = ["NY150", "QPZ15000DX", "18mm"]
-print('\nTerm Search for: ' + repr(terms))
-pp(sorted(termsearch(terms)))
+# terms = ["NY150", "QPZ15000DX", "18mm"]
+# print('\nTerm Search for: ' + repr(terms))
+# pp(sorted(termsearch(terms)))
 
-import pdb;pdb.set_trace()
+# import pdb;pdb.set_trace()
+

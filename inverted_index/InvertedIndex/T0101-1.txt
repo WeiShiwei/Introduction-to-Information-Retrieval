@@ -1,0 +1,53 @@
+螺纹钢 40mm 材质 HRB400
+螺纹钢 8III 级
+螺纹钢 DN12 品种 螺纹钢筋 直径 Φ mm 直径 Φ mm 品种 螺纹钢筋 牌号 HRB335 牌号 HRB335 品种 螺纹钢筋 直径 Φ mm 直径 Φ mm 牌号 HRB400 牌号 HRB400 品种 螺纹钢筋
+螺纹钢 DN12 牌号 Q335 直径 Φ mm
+螺纹钢 DN14 品种 螺纹钢筋 直径 Φ mm 牌号 HRB335 品种 螺纹钢筋 直径 Φ mm 牌号 HRB400
+螺纹钢 DN14 直径 Φ mm 牌号 Q335
+螺纹钢 DN16 牌号 HRB335 品种 螺纹钢筋 品种 螺纹钢筋 直径 Φ mm 直径 Φ mm 牌号 HRB335 直径 Φ mm 品种 螺纹钢筋 牌号 HRB400 直径 Φ mm 品种 螺纹钢筋 牌号 HRB400
+螺纹钢 DN16 牌号 Q335 直径 Φ mm
+螺纹钢 DN16 直径 Φ mm 品种 螺纹钢筋 牌号 HRB335 直径 Φ mm 牌号 HRB400 品种 螺纹钢筋
+螺纹钢 DN18 品种 螺纹钢筋 直径 Φ mm 牌号 HRB335 品种 螺纹钢筋 直径 Φ mm 牌号 HRB400
+螺纹钢 DN18 直径 Φ mm 牌号 Q335
+螺纹钢 DN20 品种 螺纹钢筋 直径 Φ mm 牌号 HRB335 品种 螺纹钢筋 直径 Φ mm 牌号 HRB400
+螺纹钢 DN20 牌号 Q335 直径 Φ mm
+螺纹钢 DN22 品种 螺纹钢筋 直径 Φ mm 牌号 HRB335 品种 螺纹钢筋 直径 Φ mm 牌号 HRB400
+螺纹钢 DN22 直径 Φ mm 牌号 Q335
+螺纹钢 DN25 牌号 Q335 直径 Φ mm
+螺纹钢 DN28 品种 螺纹钢筋 牌号 HRB400 直径 Φ mm
+螺纹钢 DN28 牌号 HRB335 直径 Φ mm 品种 螺纹钢筋 牌号 HRB400 品种 螺纹钢筋 直径 Φ mm
+螺纹钢 HRB235 φ 品种 螺纹钢筋 牌号 HRB235 直径 Φ mm
+螺纹钢 HRB235 φ 品种 螺纹钢筋 直径 Φ mm 牌号 HRB235
+螺纹钢 HRB235 φ 牌号 HRB235 直径 Φ mm 品种 螺纹钢筋
+螺纹钢 HRB300 φ 品种 螺纹钢筋 牌号 HRB300 直径 Φ mm
+螺纹钢 HRB300 φ 品种 螺纹钢筋 直径 Φ mm 牌号 HRB300
+螺纹钢 HRB300 φ 直径 Φ mm 牌号 HRB300 品种 螺纹钢筋
+螺纹钢 HRB335
+螺纹钢 HRB335 10mm HRB335 10mm
+螺纹钢 HRB335 12mm HRB335 12mm
+螺纹钢 HRB335 14mm HRB335 14mm
+螺纹钢 HRB335 16mm HRB335 16mm
+螺纹钢 HRB335 18mm HRB335 18mm
+螺纹钢 HRB335 20mm HRB335 20mm
+螺纹钢 HRB335 22mm HRB335 22mm
+螺纹钢 HRB335 25mm HRB335 25mm
+螺纹钢 HRB335 28mm HRB335 28mm
+螺纹钢 HRB335 32mm HRB335 32mm
+螺纹钢 HRB335 36mm HRB335 36mm
+螺纹钢 HRB335 40mm HRB335 40mm
+螺纹钢 HRB335 8mm HRB335 8mm
+螺纹钢 HRB335 Φ
+螺纹钢 HRB335 φ
+螺纹钢 HRB335 φ 品种 螺纹钢筋 牌号 HRB335 直径 Φ mm
+螺纹钢 HRB335 φ 品种 螺纹钢筋 直径 Φ mm 牌号 HRB335
+螺纹钢 HRB335 φ 牌号 HRB335 品种 螺纹钢筋 直径 Φ mm
+螺纹钢 HRB335 φ 牌号 HRB335 直径 Φ mm 品种 螺纹钢筋
+螺纹钢 HRB335 φ 直径 Φ mm 品种 螺纹钢筋 牌号 HRB335
+螺纹钢 HRB335 φ 直径 Φ mm 牌号 HRB335 品种 螺纹钢筋
+螺纹钢 HRB335 Ф
+螺纹钢 HRB400
+螺纹钢 HRB400 10mm HRB400 10mm
+螺纹钢 HRB400 12mm
+螺纹钢 HRB400 12mm HRB400 12mm
+螺纹钢 HRB400 14mm
+螺纹钢 HRB400 14mm HRB400 14mm
